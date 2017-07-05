@@ -1,3 +1,7 @@
 this is a new line for branch_test1.log
 
+<<<<<<< HEAD
 # branch_test1
+=======
+# master
+>>>>>>> master
